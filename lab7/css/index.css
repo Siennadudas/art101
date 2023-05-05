@@ -1,0 +1,26 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #000000;
+    background-color: #000000;
+  }
+  h1  {
+    color: rgb(0, 0, 0);
+    font-size:200%;
+    font-family:cursive;
+  } 
+  h2  {
+    color:rgb(0, 0, 0);
+    font-size:130%;
+    font-family:monospace;
+  }
+  #content {
+    font-size: 16px;
+}
+#sorted {
+  font-size: 22px;  
+  color:darkred
+  
+ 
+  }
+
