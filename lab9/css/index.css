@@ -1,0 +1,30 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #4d111e;
+  }
+  h1  {
+    color: rgb(198, 123, 123);
+    font-size:240%;
+    font-family: monospace;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100;
+} 
+h2  {
+    color: rgb(255, 255, 255);
+    font-size:180%;
+    font-family:'Franklin Goblin Medium'
+
+} 
+  #content {
+    background-color:rgb(38, 6, 6);
+    font-size: 16px;
+    border: solid 1px bisque;
+
+  }
+  body {
+    color:rgb(255, 130, 130)
+
+  }

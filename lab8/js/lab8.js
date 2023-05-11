@@ -16,13 +16,10 @@ console.log("My Array", array);
 
 
 var result = array.map(doubleIt);
-//console.log(result);
-
-//var result = array.map(function(x){
-//    return 2*x;
-//})
-
 console.log("Array doubled", result);
+
+var outputEl = document.getElementById("output"); 
+outputEl.innerHTML = result; // 22,44,88
 
 
 
