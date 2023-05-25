@@ -10,30 +10,10 @@ function sortingHat(str) {
     // use modulus to get the remainder with 4
     var mod = length % 4;
 
-    var result = "";
-
     // return different results depending on value of mod
-    switch(mod) {
-        case 0:
-            result = "Gryffindor";
-            break;
-
-        case 1:
-            result = "Ravenclaw";
-            break;
-
-        case 2:
-            result = "Slytherin";
-            break;
-
-        case 3:
-            result = "Hufflepuff";
-            break;
-    }
-
-    return result;
+    var house = ["Gryffindor", "Ravenclaw", "Slytherin", "Hufflepuff"];
+    return house[mod];
 }
-
 
 $(function() {
 
