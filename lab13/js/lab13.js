@@ -23,12 +23,12 @@ function FizzBuzz() {
 
         // see if number is a multiple of 7
         if (number % 7 == 0) {
-            str += multipleOf7;
+            str += multipleof7;
         }
 
         // see if number is a multiple of 9
         if (number % 9 == 0) {
-            str += multipleOf9;
+            str += multipleof9;
         }
 
         // add exclamation point to end of string
