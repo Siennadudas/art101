@@ -15,23 +15,16 @@ h2  {
     color: rgb(99, 13, 65);
     font-size:150%;
     font-family:'Franklin Goblin Medium'
-
-
 } 
   #content {
     background-color:rgb(225, 134, 206);
     font-size: 16px;
     border: solid 1px bisque;
-
   }
   body {
     color:rgb(255, 255, 255)
-
   }
-
-
     #input {
     font-size:large
-    
     }
  

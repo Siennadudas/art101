@@ -1,16 +1,17 @@
 .minor-section {
-    padding: 10px;
-    margin-bottom: 10px;
-    border: solid 1px #000000;
-    background-color: #f3d164;
-  }
-  h1  {
-    color: rgb(0, 0, 0);
-    font-size:200%;
-    font-family:cursive;
-  } 
-  h2  {
-    color:rgb(0, 0, 0);
-    font-size:130%;
-    font-family:monospace;
-  }
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #888;
+  background-color: #4d111e;
+}
+h1  {
+  color: rgb(198, 123, 123);
+  font-size:200%;
+  font-family:cursive;
+} 
+#content {
+  background-color:rgb(93, 102, 20);
+  font-size: 16px;
+  border: solid 1px bisque;
+
+}
