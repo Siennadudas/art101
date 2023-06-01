@@ -10,8 +10,14 @@
     font-family:cursive;
 } 
   #content {
-    background-color:rgb(121, 12, 12);
+    background-color:rgb(211, 247, 132);
     font-size: 16px;
     border: solid 1px bisque;
 
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
