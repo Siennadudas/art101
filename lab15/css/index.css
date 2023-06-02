@@ -1,0 +1,23 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #ffffff;
+    background-color: #886f75;
+  }
+  h1  {
+    color: rgb(132, 123, 198);
+    font-size:200%;
+    font-family:cursive;
+} 
+  #content {
+    background-color:rgb(167, 156, 219);
+    font-size: 16px;
+    border: solid 1px bisque;
+
+  }
+
+h2 {
+    font-family: cursive;
+    color: #2e040d;
+
+}
